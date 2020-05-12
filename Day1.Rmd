@@ -10,6 +10,14 @@ output: html_document
 
 ```{r setup, include=FALSE}
 options(scipen = 999) #disabling scientific notation in R.
+
+#all libraries together-
+install.packages("ape")
+install.packages("phytools")
+library(ape)
+library(phytools)
+
+
 ```
 
 ##Importance of independent contrasts- 
