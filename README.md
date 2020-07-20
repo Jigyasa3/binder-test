@@ -1,2 +1,2 @@
-# test_skillpill
+# binder-test
 this is a readme file
