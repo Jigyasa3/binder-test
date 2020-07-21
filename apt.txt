@@ -1,2 +1,2 @@
 devscripts
-checkbashisms
+apk add checkbashisms
