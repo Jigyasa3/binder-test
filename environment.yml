@@ -1,6 +1,5 @@
 name: conda-environment
 channels:
   - bioconda
- dependencies:
+dependencies:
   - freebayes
-  
