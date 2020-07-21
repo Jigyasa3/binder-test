@@ -1,2 +1,2 @@
 devscripts
-apk add checkbashisms
+yum install devscripts-checkbashisms
