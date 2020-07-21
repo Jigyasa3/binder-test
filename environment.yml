@@ -1,6 +1,3 @@
 name: conda-environment
-channels:
-  - conda-forge
-dependencies:
-  -freebayes
+conda install -c bioconda freebayes
   
