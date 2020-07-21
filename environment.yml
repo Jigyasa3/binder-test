@@ -1,0 +1,6 @@
+name: conda-environment
+channels:
+  - conda-forge
+dependencies:
+  -freebayes
+  
