@@ -1,2 +1,2 @@
 devscripts
-yum install devscripts-checkbashisms
+
